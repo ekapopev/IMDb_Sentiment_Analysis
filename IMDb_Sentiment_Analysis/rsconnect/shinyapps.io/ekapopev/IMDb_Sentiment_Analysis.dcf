@@ -1,0 +1,12 @@
+name: IMDb_Sentiment_Analysis
+title: IMDb_Sentiment_Analysis
+username:
+account: ekapopev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 776369
+bundleId: 1925595
+url: https://ekapopev.shinyapps.io/IMDb_Sentiment_Analysis/
+when: 1552062264.42153
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: IMDb_Sentiment_Analysis
+title: IMDb_Sentiment_Analysis
+username:
+account: rshinyappssiddhantchauhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 714802
+bundleId: 1874932
+url: https://rshinyappssiddhantchauhan.shinyapps.io/IMDb_Sentiment_Analysis/
+when: 1550096907.2148
+asMultiple: FALSE
+asStatic: FALSE
