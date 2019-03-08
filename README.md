@@ -1,6 +1,6 @@
 # IMDB Movie Reviews Sentiment Analysis
 
-## Authors:
+### Authors:
 Viriyakovithya Ekapope | Chauhan Siddhant | Ponce James | Piracha Ali
 
 ## Project Summary:
